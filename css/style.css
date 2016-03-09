@@ -1,0 +1,266 @@
+html {
+    background-color: #fe7701;
+
+}
+body{
+  width: 1260px;
+  margin: 0px auto;
+}
+.container{
+  width: 960px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.logo{
+  margin: 30px 491px 18px 25px;
+
+}
+.icon{
+  margin: 30px 10px 25px 0px;
+}
+
+/*以下實作nav*/
+.site-nav{
+  width: 960px;
+  height: 50px;
+  background-color: #FFF;
+  border-radius: 3px;
+  box-shadow: -5px 5px rgba(165, 77, 5, 0.5);
+}
+.site-nav li {
+  list-style: none;
+  float: left;
+  margin-left: 30px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.site-nav a{
+  font-family: Arial;
+  font-weight: bolder;
+  font-size: 14px;
+  color: #FE7701;
+  text-decoration: none;
+}
+.article-1{
+  width: auto;
+  height: 206px;
+}
+.slider {
+  width : 960px;
+  height: 500px;
+  margin-top: 19px;
+  margin-bottom: 20px;
+}
+.head-container{
+  float: left;
+  background-color: #FFF;
+  width: 300px;
+  height: 50px;
+  border-radius: 3px;
+  margin-bottom: 15px;
+  box-shadow: -5px 5px rgba(165, 77, 5, 0.5);
+}
+.HaveLeft{
+  margin-right: 30px;
+}
+.tablehead1{
+  font-family: Arial;
+  font-weight: bolder;
+  font-size: 14px;
+  color: #FE7701;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 30px;
+}
+.floatleft{
+  float: left;
+}
+.div-container1{
+  margin-left: 51px;
+  margin-right: 10px;
+}
+.iconDescribe{
+  margin: 0px auto;
+  width: 40px;
+  height: 40px;
+}
+.div-container2{
+  margin-top: 5px;
+
+}
+.div-container3{
+  margin-bottom: 10px;
+  background-color: #FFF;
+  border-radius: 3px;
+  width: 199px;
+  height: 30px;
+  box-shadow: -5px 5px rgba(165, 77, 5, 0.5);
+}
+.div-text-1{
+  font-family: Arial;
+  font-size: 12px;
+  color: #404040;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  font-size: 12px;
+}
+.div-container4{
+  margin-left: 30px;
+  margin-top: 5px;
+  width: 300px;
+}
+.div-image-1{
+  margin-right: 15px;
+  margin-bottom: 10px;
+  width: 90px;
+  height: 50px;
+  border-radius: 3px;
+}
+.div-image-2{
+  margin-bottom: 10px;
+  width: 90px;
+  height: 50px;
+  border-radius: 3px;
+}
+.div-container5{
+  margin-left: 30px;
+  margin-top: 5px;
+  width: 300px;
+  height: 136px;
+  background-color: #FFF;
+  border-radius: 3px;
+  box-shadow: -5px 5px rgba(165, 77, 5, 0.5);
+}
+.p-1{
+  font-size: 12px;
+  font-family: Arial;
+  color: #404040;
+  margin:13px 15px;
+  line-height: 1.5em;
+}
+.article-2{
+  margin-top: 40px;
+  height: 330px;
+  margin-bottom: 20px;
+}
+.div-container6{
+  width: 630px;
+  height: 50px;
+  margin-bottom: 20px;
+  margin-right: 30px;
+  background-color: #FFF;
+  border-radius: 3px;
+  box-shadow: -5px 5px rgba(165, 77, 5, 0.5);
+}
+.div-text-2{
+  font-family: Arial;
+  font-weight: bolder;
+  font-size: 14px;
+  color: #FE7701;
+  padding:16px 30px;
+}
+.div-container7{
+  width: 300px;
+  height: 50px;
+  margin-bottom: 20px;
+  background-color: #FFF;
+  border-radius: 3px;
+  box-shadow: -5px 5px rgba(165, 77, 5, 0.5);
+}
+.div-container8{
+  margin-right: 30px;
+  width: 630px;
+}
+.div-container9{
+  width: 630px;
+  height: 80px;
+  margin-bottom: 10px;
+  background-color: #FFF;
+  border-radius: 3px;
+  box-shadow: -5px 5px rgba(165, 77, 5, 0.5);
+}
+.div-image-3{
+  margin: 10px 10px;
+}
+.p-2{
+  font-family: Arial;
+  font-size: 16px;
+  color: #404040;
+  margin:14px 0px 8px 10px;
+}
+.p-3{
+  font-family: Arial;
+  font-size: 10px;
+  color: #a54e03;
+  font-style: italic;
+  margin:8px 0px 25px 10px;
+}
+.div-container10{
+  width: 300px;
+  height: 260px;
+  margin-bottom: 20px;
+  background-color: #FFF;
+  border-radius: 3px;
+  box-shadow: -5px 5px rgba(165, 77, 5, 0.5);
+}
+.div-text-3{
+  margin: 14px 15px;
+  margin-right: 3px;
+  font-family: Arial;
+  font-size: 14px;
+  color: #a54e03;
+}
+.div-text-4{
+  margin-top: 14px;
+  font-family: Arial;
+  font-size: 14px;
+}
+.div-line-1{
+  border-bottom: 1px solid #a54e03;
+  width: 270px;
+  margin: 0px 15px;
+}
+.div-text-5{
+  margin-top: 14px;
+  margin-left: 15px;
+  font-family: Arial;
+  font-size: 14px;
+  width: 250px;
+}
+.div-text-6{
+  font-family: Arial;
+  font-size: 11px;
+  color: #a54e03;
+  margin-top: 14px;
+  margin-left: 15px;
+}
+.div-text-7{
+  font-family: Arial;
+  font-size: 14px;
+  color: #a54e03;
+  margin-top: 11px;
+  margin-bottom: 14px;
+}
+.div-text-8{
+  font-family: Arial;
+  font-weight: bolder;
+  font-size: 14px;
+  color: #FE7701;
+  margin: 16px 0px;
+  margin-left: 180px;
+}
+.div-text-9{
+  font-family: Arial;
+  font-weight: bolder;
+  font-size: 14px;
+  color: #FE7701;
+  margin: 16px;
+  margin-right: 295px;
+  float: right;
+}
+footer{
+  background-color: #404040;
+  height: 50px;
+
+}
